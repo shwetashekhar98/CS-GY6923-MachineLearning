@@ -44,5 +44,3 @@ The repository is structured as follows:
 These assignments were developed as part of the **CS-GY6923 Machine Learning** course at NYU.
 
 ---
-
-Feel free to replace "yourusername" with your GitHub username or tweak the content as needed! 😊
