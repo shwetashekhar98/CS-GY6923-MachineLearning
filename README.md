@@ -1,6 +1,5 @@
-#CS-GY 6923 Machine Learning INET FALL 2024
 
-# **CS-GY6923 Machine Learning Assignments**
+# **CS-GY6923 Machine Learning INET FALL 2024 Assignments**
 
 This repository contains the assignments completed for the **CS-GY6923 Machine Learning** course. Each assignment delves into essential machine learning concepts, algorithms, and practical applications.
 
